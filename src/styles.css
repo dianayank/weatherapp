@@ -1,0 +1,48 @@
+.container {
+  background: white;
+  margin: 0px auto;
+  display: block;
+  text-align: center;
+  padding: 20px 0px 0px 0px;
+}
+
+h1,
+h2,
+h3,
+#city {
+  padding: 0px 0px 0px 0px;
+  font-weight: bold;
+  font-family: Times New Roman;
+  font-size: 38px;
+  text-align: center;
+  display: block;
+  margin: 0px auto;
+}
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+li {
+  font-size: 26px;
+  font-weight: 200;
+  height: 15px;
+  line-height: 1;
+}
+.form-control {
+  display: block;
+  text-align: center;
+  border: 3px solid;
+  border-color: grey;
+}
+.col-6 {
+  border: 2px solid;
+  border-color: blueviolet;
+  background: #e6e6fa;
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 20px;
+  display: block;
+  margin: 0 auto;
+  padding: 20px 0px 20px 0px;
+}
